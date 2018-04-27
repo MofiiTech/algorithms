@@ -1,4 +1,4 @@
-# algorithms
+# Algorithms, 4th
 
 * Notes from *Algorithms 4th Edition* by *Robert Sedgewich* and *Kevin Wayne*.
 
